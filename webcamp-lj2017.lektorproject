@@ -1,5 +1,0 @@
-[project]
-name = webcamp-lj2017
-
-[packages]
-lektor-webpack-support = 0.3
