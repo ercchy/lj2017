@@ -1,24 +1,23 @@
 {
-    "name": "Webcamp Ljubljana 2017",
-    "version": "0.0.1",
-    "authors": [
-        "Jure Cuhalev",
-        "Heidi Pungartnik",
-        "Alja Isakovic",
-        "Zan Andrle",
-        "Erika Pogorelc"
-    ],
-    "description": "A site for the Webcamp Ljubljana 2017.",
-    "dependencies": {
-        "foundation-sites": "~6.3.0",
-        "motion-ui": "~1.2.2"
-    },
-    "ignore": [
-        "**/.*",
-        "node_modules",
-        "bower_components",
-        "test",
-        "tests"
-    ],
-    "private": true
+  "name": "foundation-sites-template",
+  "version": "1.0.0",
+  "authors": [
+    "ZURB <foundation@zurb.com>"
+  ],
+  "description": "Basic template for a new Foundation for Sites project.",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "http://foundation.zurb.com",
+  "dependencies": {
+    "foundation-sites": "~6.3.0",
+    "motion-ui": "~1.2.2"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
 }
